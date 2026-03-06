@@ -23,7 +23,7 @@ function Projects() {
      <a href="https://moti-mahal-frontend.vercel.app/" className="text-danger"><h2 className="text-danger">Deployed link</h2></a> </div>
 
       <motion.div whileHover={{ scale: 1.05 }}>
-        <h3>Basketball Scorecard</h3>
+        <h3>Qureshi Meat Corner</h3>
         <video src="/qureshi-meat-corner.mp4" controls width="80%" />
       </motion.div>
       <div className="mt-5 mb-5">
