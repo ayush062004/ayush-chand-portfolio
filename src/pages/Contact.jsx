@@ -62,7 +62,7 @@ function Contact() {
 
         <motion.a
           whileHover={{ scale: 1.05 }}
-          href="#"
+          href="https://www.linkedin.com/in/ayush-chand-304879292/"
           style={linkStyle}
         >
           <FaLinkedin /> &nbsp; LinkedIn
